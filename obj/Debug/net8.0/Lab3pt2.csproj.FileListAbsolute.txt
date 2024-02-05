@@ -1,0 +1,28 @@
+C:\Users\Lucas\OneDrive\Área de Trabalho\Lab3pt2\obj\Debug\net8.0\Lab3pt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\OneDrive\Área de Trabalho\Lab3pt2\obj\Debug\net8.0\Lab3pt2.AssemblyInfoInputs.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\Lab3pt2\obj\Debug\net8.0\Lab3pt2.AssemblyInfo.cs
+C:\Users\Lucas\OneDrive\Área de Trabalho\Lab3pt2\obj\Debug\net8.0\Lab3pt2.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\Lab3pt2\bin\Debug\net8.0\Lab3pt2.exe
+C:\Users\Lucas\OneDrive\Área de Trabalho\Lab3pt2\bin\Debug\net8.0\Lab3pt2.deps.json
+C:\Users\Lucas\OneDrive\Área de Trabalho\Lab3pt2\bin\Debug\net8.0\Lab3pt2.runtimeconfig.json
+C:\Users\Lucas\OneDrive\Área de Trabalho\Lab3pt2\bin\Debug\net8.0\Lab3pt2.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Lab3pt2\bin\Debug\net8.0\Lab3pt2.pdb
+C:\Users\Lucas\OneDrive\Área de Trabalho\Lab3pt2\obj\Debug\net8.0\Lab3pt2.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Lab3pt2\obj\Debug\net8.0\refint\Lab3pt2.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Lab3pt2\obj\Debug\net8.0\Lab3pt2.pdb
+C:\Users\Lucas\OneDrive\Área de Trabalho\Lab3pt2\obj\Debug\net8.0\Lab3pt2.genruntimeconfig.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\Lab3pt2\obj\Debug\net8.0\ref\Lab3pt2.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\College - Sof Dev\Second Term\CPRG211 - OOP2\Assignments\Lab3\Lab3pt2\bin\Debug\net8.0\Lab3pt2.exe
+C:\Users\Lucas\OneDrive\Área de Trabalho\College - Sof Dev\Second Term\CPRG211 - OOP2\Assignments\Lab3\Lab3pt2\bin\Debug\net8.0\Lab3pt2.deps.json
+C:\Users\Lucas\OneDrive\Área de Trabalho\College - Sof Dev\Second Term\CPRG211 - OOP2\Assignments\Lab3\Lab3pt2\bin\Debug\net8.0\Lab3pt2.runtimeconfig.json
+C:\Users\Lucas\OneDrive\Área de Trabalho\College - Sof Dev\Second Term\CPRG211 - OOP2\Assignments\Lab3\Lab3pt2\bin\Debug\net8.0\Lab3pt2.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\College - Sof Dev\Second Term\CPRG211 - OOP2\Assignments\Lab3\Lab3pt2\bin\Debug\net8.0\Lab3pt2.pdb
+C:\Users\Lucas\OneDrive\Área de Trabalho\College - Sof Dev\Second Term\CPRG211 - OOP2\Assignments\Lab3\Lab3pt2\obj\Debug\net8.0\Lab3pt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\OneDrive\Área de Trabalho\College - Sof Dev\Second Term\CPRG211 - OOP2\Assignments\Lab3\Lab3pt2\obj\Debug\net8.0\Lab3pt2.AssemblyInfoInputs.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\College - Sof Dev\Second Term\CPRG211 - OOP2\Assignments\Lab3\Lab3pt2\obj\Debug\net8.0\Lab3pt2.AssemblyInfo.cs
+C:\Users\Lucas\OneDrive\Área de Trabalho\College - Sof Dev\Second Term\CPRG211 - OOP2\Assignments\Lab3\Lab3pt2\obj\Debug\net8.0\Lab3pt2.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\College - Sof Dev\Second Term\CPRG211 - OOP2\Assignments\Lab3\Lab3pt2\obj\Debug\net8.0\Lab3pt2.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\College - Sof Dev\Second Term\CPRG211 - OOP2\Assignments\Lab3\Lab3pt2\obj\Debug\net8.0\refint\Lab3pt2.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\College - Sof Dev\Second Term\CPRG211 - OOP2\Assignments\Lab3\Lab3pt2\obj\Debug\net8.0\Lab3pt2.pdb
+C:\Users\Lucas\OneDrive\Área de Trabalho\College - Sof Dev\Second Term\CPRG211 - OOP2\Assignments\Lab3\Lab3pt2\obj\Debug\net8.0\Lab3pt2.genruntimeconfig.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\College - Sof Dev\Second Term\CPRG211 - OOP2\Assignments\Lab3\Lab3pt2\obj\Debug\net8.0\ref\Lab3pt2.dll
